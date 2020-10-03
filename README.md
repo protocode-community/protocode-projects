@@ -1,1 +1,1 @@
-# weekly-scrimba-challenges
+# scrimba-weekly
