@@ -1,9 +1,9 @@
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 
-A project to learn Git with - That is what this repository is. 
+- This repository only serves only Git educational purpose. 
 
-This repository contains:
+The repository contains:
 
 1. Folders and Files of various "Scrimba" projects.
 2. standard README - this file you are reading.
