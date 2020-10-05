@@ -29,7 +29,7 @@ The goals for this repository are:
 
 This is only a documentation project for educational purpose.
 
-respect the Folder Structure as follows: scrimba-weekly / <weekly-challenge-name> / VARIATIONS / <some-other-name>
+respect the Folder Structure as follows: scrimba-weekly / weekly-challenge-name / VARIATIONS / some-other-name
 
 ## Maintainers
 
