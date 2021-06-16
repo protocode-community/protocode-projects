@@ -5,7 +5,7 @@
 
 The repository contains:
 
-1. Folders and Files of various "Scrimba" projects.
+1. Folders and Files of various "protocode" projects.
 2. standard README - this file you are reading.
 
 ## Table of Contents
@@ -20,28 +20,28 @@ The repository contains:
 
 The goals for this repository are:
 
-1. To lead us to the glory of Scrimba Academy.
-2. Also teach us Git fundamentals (and also learn something about the projects we should be doing ;P).
+1. To lead us to the glory of Javascript ES6 and beyound.
+2. Especially teach us Git fundamentals (and also learn something about the projects we should be doing ;P).
 3. Learing a practicable Git workflow.
-4. Showcase what we achieved since starting our frontend-path journey. 
+4. Showcase what we achieved since starting our dev journey. 
 
 ## Usage
 
 This is only a documentation project for educational purpose.
 
-respect the Folder Structure as follows: scrimba-weekly / weekly-challenge-name / VARIATIONS / some-other-name
+respect the Folder Structure as follows: Repository(root) / Projekt(name) / VARIATION(your very own project)
 
 ## Maintainers
 
 [@Prototowb](https://github.com/prototowb)
 
 ## Contributing
-Feel free to dive in! Open an issue or submit Pull Requests.
+Feel free to dive in! Fork this repo, add your own project folder, submit Pull Requests or contribute to possible issues.
 
-scrimba-weekly follows the Contributor Covenant Code of Conduct.
+protocode-projects follows the Contributor Covenant Code of Conduct.
 
 ### Contributors
-This project exists thanks to the awesomeness of fe-study-group-60! Keep on keeping on 🧐
+This project exists thanks to the awesomeness of you! Keep on keeping on 🧐
 
 ## License
 [MIT](LICENSE) © Tobias Rauer
