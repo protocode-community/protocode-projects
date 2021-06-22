@@ -33,7 +33,7 @@ respect the Folder Structure as follows: Repository(root) / Projekt(name) / VARI
 
 ## Maintainers
 
-[@Prototowb](https://github.com/prototowb)
+[@prototowb](https://github.com/prototowb)
 
 ## Contributing
 Feel free to dive in! Fork this repo, add your own project folder, submit Pull Requests or contribute to possible issues.
