@@ -44,4 +44,4 @@ protocode-projects follows the Contributor Covenant Code of Conduct.
 This project exists thanks to the awesomeness of you! Keep on keeping on 🧐
 
 ## License
-[MIT](LICENSE) © Tobias Rauer
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) © protocode
