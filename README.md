@@ -20,9 +20,9 @@ The repository contains:
 
 The goals for this repository are:
 
-1. To lead us to the glory of Javascript ES6 and beyound.
-2. Especially teach us Git fundamentals (and also learn something about the projects we should be doing ;P).
-3. Learing a practicable Git workflow.
+1. To lead us to the glory of HTML/CSS & Javascript and beyound.
+2. Especially teaching us Git fundamentals.
+3. Learing a practicable Git(Hub) workflow.
 4. Showcase what we achieved since starting our dev journey. 
 
 ## Usage
