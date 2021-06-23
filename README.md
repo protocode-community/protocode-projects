@@ -1,15 +1,9 @@
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
+**This repository serves only Git educational purpose.**
 
-- This repository only serves only Git educational purpose. 
-
-The repository contains:
-
-1. Folders and Files of various "protocode" projects.
-2. standard README - this file you are reading.
 
 ## Table of Contents
-
 - [Background](#background)
 - [Usage](#usage)
 - [Maintainers](#maintainers)
@@ -17,31 +11,27 @@ The repository contains:
 - [License](#license)
 
 ## Background
-
 The goals for this repository are:
 
-1. To lead us to the glory of Javascript ES6 and beyound.
-2. Especially teach us Git fundamentals (and also learn something about the projects we should be doing ;P).
-3. Learing a practicable Git workflow.
-4. Showcase what we achieved since starting our dev journey. 
+1. To provide beginners a first experience contributing to open source projects.
+2. Teaching Git fundamentals and a practicable Git(Hub) workflow.
+3. Building your GitHub activity & contribution Profile to showcase what you achieved since starting your dev journey. 
 
 ## Usage
+Respect the Folder Structure as follows: Repository(root) / category / projekt(name) / VARIATION(your individual project)
 
-This is only a documentation project for educational purpose.
-
-respect the Folder Structure as follows: Repository(root) / Projekt(name) / VARIATION(your very own project)
+Choose skill & difficulty and a specific project, then add your own variation of your individual implementation!  
 
 ## Maintainers
-
-[@prototowb](https://github.com/prototowb)
+[Tobias Rauer](https://github.com/prototowb)
 
 ## Contributing
-Feel free to dive in! Fork this repo, add your own project folder, submit Pull Requests or contribute to possible issues.
+Feel free to dive right in! Fork this repo, add your own project folder, submit Pull Requests or contribute to possible issues.
 
-protocode-projects follows the Contributor Covenant Code of Conduct.
+protocode-projects follows the Contributor Covenant Code of Conduct [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md).
 
 ### Contributors
 This project exists thanks to the awesomeness of you! Keep on keeping on 🧐
 
 ## License
-[MIT](LICENSE) © Tobias Rauer
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) © protocode
