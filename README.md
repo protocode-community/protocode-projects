@@ -26,12 +26,16 @@ Choose skill & difficulty and a specific project, then add your own variation of
 [Tobias Rauer](https://github.com/prototowb)
 
 ## Contributing
-Feel free to dive right in! Fork this repo, add your own project folder, submit Pull Requests or contribute to possible issues.
+Feel free to dive right in! Fork this repo, add your own project folder, update index.html in the repository root and submit Pull Requests or contribute to possible issues.
 
 protocode-projects follows the Contributor Covenant Code of Conduct [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md).
 
 ### Contributors
-This project exists thanks to the awesomeness of you! Keep on keeping on 🧐
+You may add your name (and project preview link) below
+
+|username|project|
+|--------|-------|
+|Mark Z.|[linkpage](https://www.youtube.com/watch?v=o-YBDTqX_ZU)|
 
 ## License
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) © protocode
