@@ -15,7 +15,11 @@ body {
     background: linear-gradient(30deg, rgb(33, 218, 180), rgb(93, 181, 255));
 }
 
-.headline {
+.title {
+    height: 15vh;
+}
+
+.title__headline {
     display: block;
     font-size: 3em;
     font-weight: 900;
@@ -24,7 +28,7 @@ body {
     -webkit-text-fill-color: white;
 }
 
-.headline:before {
+.title__headline:before {
     display: block;
     content: '';
     background: rgb(9, 3, 39);
@@ -35,7 +39,7 @@ body {
     border-radius: 2px;
 }
 
-.headline:after {
+.title__headline:after {
     display: block;
     content: '';
     background: rgb(29, 247, 237);;
@@ -53,7 +57,7 @@ body {
     padding: 0;
 }
 
-.linklist-item {
+.linklist__item {
     margin-top: 5px;
     background: rgb(9, 3, 39);
     border-radius: 2px;
@@ -61,25 +65,25 @@ body {
     line-height: 60px;
 }
 
-.linklist-item:hover {
+.linklist__item:hover {
     background: rgb(29, 247, 237);
     transform: scale(1.125);
     cursor: pointer;
     box-shadow: 0px 15px 60px rgba(0, 0, 0, 0.45);
 }
 
-.linklist-item:hover > .linklist-item__link {
+.linklist__item:hover > .linklist__item-link {
     font-weight: 900;
     color: rgb(240, 240, 240);
     -webkit-text-stroke: 1.2px rgb(9, 3, 39);
     -webkit-text-fill-color: white;
 }
 
-.linklist-item:active {
+.linklist__item:active {
     transform: scale(1);
 }
 
-.linklist-item__link {
+.linklist__item-link {
     display: inline-block;
     text-transform:uppercase;
     text-decoration: none;
