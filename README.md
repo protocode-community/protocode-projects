@@ -33,11 +33,12 @@ Feel free to dive right in! Fork this repo, add your own project folder, update 
 protocode-projects follows the Contributor Covenant Code of Conduct [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md).
 
 ### Contributors
+All contributions are viewable here: https://protocode-community.github.io/protocode-projects/
 You may add your name (and project preview link) below
 
 |username|project|
 |--------|-------|
-|Mark Z.|[linkpage](https://www.youtube.com/watch?v=o-YBDTqX_ZU)|
+|protocode|[linkpage](https://protocode-community.github.io/protocode-projects/1-HTML_CSS-starter/linkpage/protocode/)|
 
 ## License
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) © protocode
