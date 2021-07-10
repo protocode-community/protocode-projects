@@ -42,7 +42,7 @@ body {
 .title__headline:after {
     display: block;
     content: '';
-    background: rgb(29, 247, 237);;
+    background: rgb(29, 247, 237);
     height: 60px;
     margin-left: calc(60% - 15px);
     margin-top: -57px;

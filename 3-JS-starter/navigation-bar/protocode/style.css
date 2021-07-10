@@ -1,0 +1,149 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito&display=swap");
+
+:root {
+  --primaryColor: #fff;
+  --navColor1: rgb(29, 247, 237);
+  --navColor2: rgb(9, 3, 39);
+  --navColor3: rgb(33, 218, 180);
+  --navColor4: rgb(9, 3, 39);
+  --navColor5: rgb(93, 181, 255);
+}
+
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #000;
+  font-family: Nunito, sans-serif;
+}
+
+/* --- Navigation Menu ------------------------------ */
+
+/* Add a black background color to the top navigation */
+.topnav {
+  position: fixed;
+  display: flex;
+  justify-content: flex-end;
+  top: 0;
+  width: 100%;
+  transition: top 0.3s;
+  background-color: var(--navColor2);
+  overflow: hidden;
+  z-index: 9;
+}
+
+.logo {
+  margin-right: auto;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: var(--navColor3);
+  color: black;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+  background-color: #ddd;
+  color: rgb(0, 0, 0);
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
+
+/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    display: block;
+  }
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 600px) {
+  .topnav.responsive {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    flex-direction: column;
+    justify-content: flex-start;
+    z-index: 1;
+  }
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    display: block;
+    text-align: left;
+  }
+}
+
+/* --- Sections ------------------------------------ */
+
+section {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--primaryColor);
+}
+
+section#home {
+  background-image: url("https://images.unsplash.com/photo-1625806638987-35c560d4ca6e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&fit=crop&w=2089&q=80");
+  background-size: cover;
+  background-position: center center;
+}
+
+section#home h1 {
+  font-size: 1.5em;
+  font-weight: 900;
+  background-color: rgba(240, 255, 254, 0.18);
+  padding: 1em 1em;
+  border: 9px solid white;
+}
+
+@media screen and (min-width: 960px) {
+  section#home h1 {
+    font-size: 3em;
+  }
+}
+
+section#about {
+  background-color: var(--navColor2);
+}
+
+section#skills {
+  background-color: var(--navColor3);
+}
+
+section#projects {
+  background-color: var(--navColor4);
+}
+
+section#contact {
+  background-color: var(--navColor5);
+}
+
