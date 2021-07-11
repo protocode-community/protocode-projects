@@ -41,4 +41,4 @@ You may add your name (and project preview link) below
 |protocode|[linkpage](https://protocode-community.github.io/protocode-projects/1-HTML_CSS-starter/linkpage/protocode/)|
 
 ## License
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) © protocode
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) © protocode
