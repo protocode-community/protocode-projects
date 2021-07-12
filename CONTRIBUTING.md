@@ -12,6 +12,7 @@ In general you can just fork this repo, make a small change anywhere and send a 
       
 ## workflow
 - Fork this repo
+- Duplicate the \_template folder of your preferred project
 - Add your project folder named as \<your-user-name> inside \<project-name>
 - Make a pull request
 
